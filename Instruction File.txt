@@ -1,7 +1,9 @@
-First time
+One time user_name and email setup
 
 => git config --global user.name "John Doe"
 => git config --global user.email johndoe@example.com
+
+First time
 => git init
 => git add .
 => git commit -m "first commit"
@@ -11,7 +13,7 @@ First time
 => 
 
 ------------------------------------------------------------------
-
+After edit or add something
 => git add .
 => git commit -m "Text instruction file added"
 => git push
