@@ -1,0 +1,28 @@
+=> git add .
+=> git commit -m "Text instruction file added"
+=> git push
+
+----------------------------------------------------------------------------------
+
+First time
+
+=> git config --global user.name "John Doe"
+=> git config --global user.email johndoe@example.com
+=> git init
+=> git add .
+=> 
+=> 
+=> 
+=> 
+=> 
+
+
+
+
+
+
+
+
+
+
+
