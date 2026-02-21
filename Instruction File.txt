@@ -18,7 +18,8 @@ After edit or add something
 => git commit -m "Text instruction file added"
 => git push
 
-
+Ignore something
+.gitignore
 
 
 
