@@ -21,7 +21,8 @@ After edit or add something
 Ignore something
 .gitignore
 
-
+For Colning File Use 
+=> git clone link 
 
 
 
